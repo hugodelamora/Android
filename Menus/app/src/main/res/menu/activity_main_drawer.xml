@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mercurio"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Mercurio" />
+        <item
+            android:id="@+id/nav_venus"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Venus" />
+        <item
+            android:id="@+id/nav_tierra"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Tierra" />
+        <item
+            android:id="@+id/nav_marte"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Marte" />
+        <item
+            android:id="@+id/nav_jupiter"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Jupiter" />
+        <item
+            android:id="@+id/nav_saturno"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Saturno" />
+        <item
+            android:id="@+id/nav_urano"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Urano" />
+        <item
+            android:id="@+id/nav_neptuno"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Neptuno" />
+
+
+
+        <item android:title="Galaxias">
+            <menu>
+                <item
+                    android:id="@+id/nav_vialactea"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Via Lactea" />
+                <item
+                    android:id="@+id/andromeda"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Andromeda" />
+            </menu>
+        </item>
+    </group>
+</menu>

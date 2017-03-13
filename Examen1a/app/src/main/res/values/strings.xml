@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <string name="tB1">Autores</string>
+    <string name="tB2">Libros</string>
+    <string name="tB3">Consulta</string>
+    <string name="title_activity_autores_detalle">.</string>
+
+
+    <string name="Name">Nombre</string>
+    <string name="Publish">Publicación</string>
+    <string name="tAuthor">Seleccione un autor</string>
+    <string name="tEditorial">Seleccione una editorial</string>
+    <string name="tCountry">Seleccione un pais</string>
+    <string name="dateP">Seleccione una fecha</string>
+    <string name="save">Guardar</string>
+    <string name="nonull">no puede ser nulo</string>
+    <string name="saved">Guardado</string>
+
+
+    <string-array name="autor_array">
+        <item>Seleccione un elemento</item>
+        <item>William Shakespeare</item>
+        <item>Octavio Paz</item>
+    </string-array>
+
+    <string-array name="editorial_array">
+        <item>Seleccione un elemento</item>
+        <item>Porrua</item>
+        <item>Grijalbo</item>
+    </string-array>
+
+    <string-array name="pais_array">
+        <item>Seleccione un elemento</item>
+        <item>Alemania</item>
+        <item>España</item>
+        <item>Estados Unidos</item>
+        <item>Inglaterra</item>
+        <item>México</item>
+    </string-array>
+
+    <string name="a1">1. William Shakespeare</string>
+    <string name="a2">2. Octavio Paz</string>
+    <string name="a1a">Hamlet</string>
+    <string name="a1b">Romeo y Julieta"</string>
+    <string name="a2a">Laberinto de la soledad</string>
+    <string name="a2b">Piedra de sol</string>
+
+
+</resources>

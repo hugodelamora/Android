@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <string name="tB1">Autores</string>
+    <string name="tB2">Libros</string>
+    <string name="tB3">Consulta</string>
+    <string name="title_activity_autores_detalle">AutoresDetalleActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
